@@ -13,6 +13,9 @@
 * Foreign Laguages: Fluent speaking Urdu and Hindi
 
 ## Experience
+* Women's Hackathon
+  * California State University San Marcos
+  * Won award for best design to the theme
 * Software Testing Intern at Hifinite Inc.
   * Hifinite Inc. is a medical technology start-up, developing a health monitoring and communication product for use between physicians, their patients, and more.
   * Tested the software on the Web front, as well as the Application fronts
