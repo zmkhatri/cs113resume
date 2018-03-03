@@ -1,5 +1,7 @@
 # Zoyah Khatri
-## Contact Info: zmkhatri@gmail.com, 760-521-1307
+## Contact Info
+* zmkhatri@gmail.com
+* 760-521-1307
 ### Education
 * MiraCosta College
 * Honors Scholar Program Graduate
