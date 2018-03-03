@@ -2,13 +2,16 @@
 ## Contact Info
 * zmkhatri@gmail.com
 * 760-521-1307
+
 ## Education
 * MiraCosta College
 * Honors Scholar Program Graduate
 * A.S Liberal Arts with Emphasis in Math and Science
+
 ## Skills
 * Primary languages: HTML, CSS, Java
 * Foreign Laguages: Fluent speaking Urdu and Hindi
+
 ## Experience
 * Software Testing Intern at Hifinite Inc.
   * Hifinite Inc. is a medical technology start-up, developing a health monitoring and communication product for use between physicians, their patients, and more.
