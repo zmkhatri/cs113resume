@@ -1,4 +1,5 @@
 # Zoyah Khatri
+![](githubPicture.jpg)
 ## Contact Info
 * zmkhatri@gmail.com
 * 760-521-1307
